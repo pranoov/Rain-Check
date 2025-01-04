@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Rain Check",
+    "slug": "snack-d3931893-9ba7-4e37-abee-961f62bf264f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/finalLogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/finalLogo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.pgcoder22.snackd39318939ba74e37abee961f62bf264f"
+    },
+    "web": {
+      "favicon": "./assets/finalLogo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "59890d5f-be4a-475a-9282-4efaed0c0817"
+      }
+    }
+  }
+}
